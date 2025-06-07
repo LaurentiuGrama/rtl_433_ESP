@@ -272,7 +272,7 @@ void rtlSetup() {
       memcpy(&cfg->devices[18], &efergy_e2_classic, sizeof(r_device));
       memcpy(&cfg->devices[19], &efergy_optical, sizeof(r_device));
       memcpy(&cfg->devices[20], &emax, sizeof(r_device));
-      memcpy(&cfg->devices[21], &emontx, sizeof(r_device));
+      memcpy(&cfg->devices[21], &apator_metra_erm30, sizeof(r_device));
       memcpy(&cfg->devices[22], &esic_emt7110, sizeof(r_device));
       memcpy(&cfg->devices[23], &fineoffset_WH25, sizeof(r_device));
       memcpy(&cfg->devices[24], &fineoffset_WH51, sizeof(r_device));

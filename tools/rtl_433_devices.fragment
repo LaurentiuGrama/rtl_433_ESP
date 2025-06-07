@@ -60,7 +60,7 @@
   DECL(elv_em1000) \
   DECL(elv_ws2000) \
   DECL(emax) \
-  DECL(emontx) \
+  DECL(apator_metra_erm30) \
   DECL(emos_e6016) \
   DECL(emos_e6016_rain) \
   DECL(enocean_erp1) \
